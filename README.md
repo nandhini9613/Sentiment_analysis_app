@@ -4,7 +4,7 @@ This is a simple **Sentiment Analysis Web Application** that classifies text as 
 
 ## 🚀 Live Web App
 
-👉 [Click here to use the app](https://sentiment-analysis-app.streamlit.app/)  
+👉 [Click here to use the app](https://sentimentanalysisapp-gac4m8ndbj3tmj2x5hduwa.streamlit.app/)  
 *(If not working, deploy it on Streamlit, Hugging Face, or another platform and update the link here)*
 
 ## 🛠️ Features
